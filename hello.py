@@ -6,3 +6,6 @@ def helloworld():
     
 def sum(x,y):
     return x+y
+    
+def sum2(x,y,z):
+    return x+y+z
