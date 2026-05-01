@@ -9,3 +9,6 @@ def sum(x,y):
     
 def sum2(x,y,z):
     return x+y+z
+
+def wrongsum(x,y,z):
+    return x*y*y*z*z*x*z*y*z
